@@ -1,0 +1,77 @@
+﻿  Skeleton.cpp
+c:\users\yina\source\repos\raycasting\raycasting\mat4x4.h(268): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(213): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(223): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(234): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(317): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(320): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(321): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(325): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(355): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(378): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(379): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(484): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(492): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(521): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(669): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(695): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(959): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(967): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1051): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1052): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1170): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1188): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1189): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1192): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1234): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1238): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1242): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1300): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1301): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1304): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1308): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1309): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1313): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1314): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1373): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1374): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1377): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1378): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1380): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1381): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1382): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1386): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1387): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1399): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1405): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1424): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1428): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1429): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1493): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1494): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1495): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1497): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1498): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1499): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1502): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1503): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1504): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1562): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1568): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1569): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1570): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1586): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1616): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1618): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1622): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1626): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1629): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1635): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1709): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1738): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1826): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\raycasting\raycasting\skeleton.cpp(1827): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RayCasting.vcxproj -> C:\Users\Yina\source\repos\RayCasting\x64\Debug\RayCasting.exe
+  RayCasting.vcxproj -> C:\Users\Yina\source\repos\RayCasting\x64\Debug\RayCasting.pdb (Partial PDB)
